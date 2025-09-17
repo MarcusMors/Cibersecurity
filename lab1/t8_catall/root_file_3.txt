@@ -1,0 +1,6 @@
+this text can only be writen by root, however everybody can read it.
+hahahaha
+hahahahah
+ahahahaha
+hahahahaha
+-- laugh in root

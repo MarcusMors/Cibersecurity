@@ -1,0 +1,8 @@
+{
+  "files.associations": {
+    "*.tpp": "cpp",
+    "text_encoding": "cpp",
+    "cstdio": "cpp",
+    "print": "cpp"
+  }
+}
